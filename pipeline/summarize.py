@@ -16,6 +16,9 @@ from pydantic import BaseModel
 from google import genai
 from google.genai import types
 from config import GEMINI_API_KEY, MODEL_NAME
+import time
+from google.genai.errors import ServerError
+from typing import cast
 
 client = genai.Client(api_key = GEMINI_API_KEY)
 
@@ -29,6 +32,23 @@ def clean(text : str):
     text = html.unescape(text)
     text = re.sub(r"<[^>]+>", "", text)
     return text
+
+def call_gemini(prompt, retries=3):
+    for attempt in range(retries):
+        try:
+            return client.models.generate_content(
+                model = MODEL_NAME,
+                contents = prompt,
+                config = types.GenerateContentConfig(
+                    response_mime_type = "application/json",
+                    response_schema = list[SummaryResult],
+                ),
+            )
+        except ServerError:
+            if attempt == retries - 1:
+                raise
+            time.sleep(2 ** attempt)
+    raise RuntimeError("call_gemini exhausted retries")
 
 def summarize(entries : list[NewsItem]) -> list[NewsItem]:
     items_block = ""
@@ -50,17 +70,14 @@ Rules:
 Articles:
 {items_block}"""
 
-    response = client.models.generate_content(
-        model = MODEL_NAME, 
-        contents = prompt,
-        config = types.GenerateContentConfig(
-            response_mime_type = "application/json",
-            response_schema = list[SummaryResult],
-        ),
-    )
-
-    results = response.parsed 
-
+    response = call_gemini(prompt)
+    if response.parsed is None:
+        raise ValueError("Model returned unparseable output")
+    
+    results = cast(list[SummaryResult], response.parsed)
+    if results is None:
+        raise ValueError("Model returned unparseable output")
+    
     lookup = {r.id : r for r in results}
 
     for entry in entries:

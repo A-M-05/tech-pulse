@@ -8,10 +8,10 @@ from pathlib import Path
 FEEDS = ["https://www.theverge.com/rss/index.xml", "https://techcrunch.com/feed/", "https://www.engadget.com/rss.xml"]
 
 # TIME_WINDOW_HOURS: how far back to keep items (24 = daily, 72 = every few days).
-WINDOW_HOURS = 48
+WINDOW_HOURS = 168
 
 # MAX_ITEMS: cap on how many stories make it into the digest (e.g. 12).
-MAX_ITEMS = 10
+MAX_ITEMS = 20
 
 # MODEL_NAME: which Gemini model (e.g. gemini flash variant).
 MODEL_NAME = "gemini-3.8-flash"

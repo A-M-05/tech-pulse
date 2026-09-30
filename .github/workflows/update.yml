@@ -1,0 +1,35 @@
+name: Update digest
+
+on:
+  schedule:
+    - cron: "0 15 * * 1"      # Mondays 15:00 UTC = 8am PT. cron is always UTC.
+  workflow_dispatch:           # adds a manual "Run workflow" button (for testing)
+
+permissions:
+  contents: write              # REQUIRED so the job can push digest.json back
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"      # any 3.12+ that runs your code
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt   # match where your requirements.txt lives
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # injected from repo Secrets
+        run: python pipeline/main.py
+
+      - name: Commit updated digest
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output/digest.json
+          git commit -m "Update digest" || echo "No changes to commit"
+          git push
