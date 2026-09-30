@@ -9,7 +9,7 @@
 
 import feedparser as fp
 
-def fetch_all(feeds : list[str]):
+def fetch_all(feeds : list[str]) -> list[dict]:
     results = []
 
     for feed in feeds:
@@ -48,3 +48,7 @@ def fetch_all(feeds : list[str]):
 
     return results
 
+if __name__ == "__main__":
+    results = fetch_all(["https://www.theverge.com/rss/index.xml"])
+    print(len(results))
+    print(results[0])
