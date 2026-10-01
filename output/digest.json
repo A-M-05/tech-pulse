@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-09-30T23:20:01.923537+00:00",
+  "generated_at": "2026-10-01T00:00:34.770997+00:00",
   "items": [
+    {
+      "id": "1237634e7f12",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published": "2026-09-30T23:43:07+00:00",
+      "summary": "Google has launched Gemini 4 Argon, marketing it as its most capable AI model to date. The system is designed to serve as a workhorse for cybersecurity tasks and coding workflows.",
+      "category": "ai",
+      "blurb": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+    },
     {
       "id": "87c226509820",
       "title": "The new and huger Paramount has a new co-CEO",
       "source": "The Verge",
       "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
       "published": "2026-09-30T23:08:49+00:00",
-      "summary": "Paramount has appointed former Mattel chairman and CEO Ynon Kreiz as its new co-CEO ahead of its $110 billion merger with Warner Bros. Discovery. Kreiz will lead alongside chairman and CEO David Ellison. Ellison is set to focus on the company's long-term strategy, creative vision, and direction.",
+      "summary": "Paramount is bringing on former Mattel leader Ynon Kreiz as its new co-CEO ahead of its merger with Warner Bros. Discovery. Kreiz will serve alongside David Ellison, who will oversee the company's long-term strategy and creative direction. The leadership change comes as Paramount prepares to finalize the $110 billion deal.",
       "category": "company-news",
       "blurb": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, creative vision and direction, including its [&#8230;]"
     },
@@ -17,7 +27,7 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
       "published": "2026-09-30T23:08:00+00:00",
-      "summary": "Defense Secretary Pete Hegseth has launched a 120-day study on the future of warfare led by Elon Musk, Palmer Luckey, and Newt Gingrich. Critics note potential conflicts of interest, as Musk's and Luckey's companies already sell technologies the study is likely to recommend. The appointments come amid close ties between the leaders and the administration.",
+      "summary": "Defense Secretary Pete Hegseth has started a 120-day study on the future of warfare led by Elon Musk, Palmer Luckey, and Newt Gingrich. The study is aimed at helping the Pentagon decide on military priorities going forward. Critics may raise concerns because Musk and Luckey run companies that sell technology the study is expected to recommend.",
       "category": "other",
       "blurb": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend."
     },
@@ -27,7 +37,7 @@
       "source": "Engadget - Technology News & Expert Reviews",
       "url": "https://www.engadget.com/2274082/elon-musk-and-palmer-luckey-will-advise-the-government-on-the-future-of-warfare/",
       "published": "2026-09-30T22:22:38+00:00",
-      "summary": "Elon Musk and Palmer Luckey have been selected to advise the government on the future of warfare. They will be joined by Newt Gingrich in advising on military strategy.",
+      "summary": "Elon Musk and Palmer Luckey have been selected to advise the government regarding the future of warfare. They will be joined by Newt Gingrich in advising on military strategy.",
       "category": "other",
       "blurb": "So will Newt Gingrich, for some reason."
     },
@@ -37,7 +47,7 @@
       "source": "Engadget - Technology News & Expert Reviews",
       "url": "https://www.engadget.com/2274075/fujifilm-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/",
       "published": "2026-09-30T22:04:10+00:00",
-      "summary": "Fujifilm has introduced the Instax Pal 2, a small digital camera that can plug directly into a smartphone for image transfers. The device features tactile controls alongside software filters.",
+      "summary": "Fujifilm has released the Instax Pal 2, a compact digital camera that features tactile controls and software filters. The device is designed to plug directly into a smartphone to transfer photos.",
       "category": "hardware",
       "blurb": "The small digital camera combines software filters with tactile controls."
     },
@@ -47,8 +57,8 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
       "published": "2026-09-30T21:07:40+00:00",
-      "summary": "AI startup Flow Engineering has reached a $750 million valuation with backing from Valor, Atreides, and Sequoia. The company brings AI agents to hardware design. Additionally, Roelof Botha joined as an angel investor and board member.",
-      "category": "ai",
+      "summary": "AI startup Flow Engineering has reached a $750 million valuation after securing funding from Valor, Atreides, and Sequoia. The startup uses AI agents for hardware design and has added Roelof Botha as an angel investor and board member.",
+      "category": "company-news",
       "blurb": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
     },
     {
@@ -57,7 +67,7 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
       "published": "2026-09-30T20:45:00+00:00",
-      "summary": "Neon has announced an SCP Foundation movie licensed under Creative Commons following backlash against A24 from the horror community. A24 had faced criticism for announcing its own film without contacting the SCP Wiki team or committing to the required Creative Commons license. Neon aims to capitalize on the situation as a major PR win.",
+      "summary": "Neon has announced a Creative Commons SCP Foundation film following backlash against rival studio A24. A24 drew criticism from the horror community for pursuing a project without contacting the SCP Wiki team or committing to the required Creative Commons license. Neon is positioning its project to capitalize on the resulting public relations opening.",
       "category": "company-news",
       "blurb": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by [&#8230;]"
     },
@@ -67,7 +77,7 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
       "published": "2026-09-30T20:41:41+00:00",
-      "summary": "Google has unveiled its next frontier AI model, named Gemini 4 Argon, claiming high performance in complex workflows including software engineering, enterprise tasks, and cybersecurity defense. Due to its advanced capabilities, Google is currently restricting access strictly to trusted cyber defenders. The announcement was shared by Google DeepMind SVP Koray Kavukcuoglu.",
+      "summary": "Google has introduced Gemini 4 Argon, a frontier AI model built for complex workflows in software engineering, knowledge work, and cybersecurity defense. Because of the model's high capabilities, the company is restricting initial access strictly to trusted cyber defenders.",
       "category": "ai",
       "blurb": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [&#8230;]"
     },
@@ -77,7 +87,7 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
       "published": "2026-09-30T20:39:09+00:00",
-      "summary": "The CEO of Factory has accused former board advisor Chris Degnan of spying on behalf of Cognition. Degnan, a venture capitalist, has taken on a new role as chief revenue officer at Cognition.",
+      "summary": "The CEO of Factory has publicly accused former board advisor Chris Degnan of spying on behalf of rival Cognition. Degnan, a venture capitalist, has taken a position as chief revenue officer at Cognition.",
       "category": "company-news",
       "blurb": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition."
     },
@@ -87,7 +97,7 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
       "published": "2026-09-30T20:20:02+00:00",
-      "summary": "Spotify founder Daniel Ek's startup Neko Health has expanded to America after raising $700 million to offer preventative body scanning. Other players like Midjourney and Function Health are also entering or expanding in the preventative healthcare market with significant funding. An episode of TechCrunch's Equity podcast explores why investors are placing such large bets on this category.",
+      "summary": "Daniel Ek's preventative health startup Neko Health has raised $700 million to expand its body-scanning service into America. Other companies, including Midjourney and Function Health, are also investing heavily in body scanners and preventative platforms.",
       "category": "company-news",
       "blurb": "Spotify founder Daniel Ek\u2019s Neko Health\u00a0raised $700 million\u00a0to build a business around scanning your body, but\u00a0it\u2019s\u00a0not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is\u00a0building its own body scanner, while\u00a0Function Health\u00a0has also raised significant capital to build out its preventative-health platform.\u00a0Why are\u00a0investors betting\u00a0so big\u00a0on\u00a0this\u00a0category?\u00a0 On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, [&#8230;]"
     },
@@ -97,9 +107,99 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
       "published": "2026-09-30T19:29:08+00:00",
-      "summary": "The Department of Defense has informed millions of current and former U.S. military personnel that their personal information was compromised. The data theft occurred during a months-long data breach executed by hackers.",
+      "summary": "A months-long cyber breach has resulted in the theft of millions of records belonging to U.S. military personnel. The Department of Defense has alerted affected current and former service members that their personal data was compromised.",
       "category": "other",
       "blurb": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach."
+    },
+    {
+      "id": "cfb779b11c0a",
+      "title": "DoorDash\u2019s drone strategy started on the ground",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "published": "2026-09-30T19:22:13+00:00",
+      "summary": "DoorDash revealed a six-propeller aircraft designed for its upcoming drone delivery operations at its Dash Forward 2026 event. The unveiling marks the latest step in the company's delivery strategy.",
+      "category": "hardware",
+      "blurb": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event."
+    },
+    {
+      "id": "ea58d7db6051",
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+      "published": "2026-09-30T19:19:40+00:00",
+      "summary": "BMW has introduced the new 3 Series in both electric and gas-powered models, with the EV variant priced $4,400 cheaper. The vehicle highlights how rapidly electric car prices have become competitive with traditional fossil fuel options.",
+      "category": "hardware",
+      "blurb": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing."
+    },
+    {
+      "id": "c2747f33753d",
+      "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "published": "2026-09-30T19:00:57+00:00",
+      "summary": "OpenAI has introduced its Decisions API, described as a Jev clone that emphasizes fast and cheap intelligence. The new offering may assist the AI lab in addressing issues with swarming agents.",
+      "category": "ai",
+      "blurb": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    },
+    {
+      "id": "0928503bea64",
+      "title": "Breville's new $600 coffee machine makes pour-overs from scratch",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2273802/brevilles-new-600-coffee-machine-makes-pour-overs-from-scratch/",
+      "published": "2026-09-30T18:37:29+00:00",
+      "summary": "Breville has debuted a new $600 coffee machine that automates the process of making pour-over coffee from scratch. Owners will still need to supply their own coffee beans to use the device.",
+      "category": "hardware",
+      "blurb": "You do still have to buy the beans though."
+    },
+    {
+      "id": "6e1523d27751",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "published": "2026-09-30T18:23:57+00:00",
+      "summary": "ElevenLabs has doubled its valuation to $22 billion following a new financial transaction. The AI voice startup's valuation increase was driven by a $300 million employee tender offer co-led by Wellington and T. Rowe Price.",
+      "category": "company-news",
+      "blurb": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    },
+    {
+      "id": "940c49f7ad52",
+      "title": "The AI Tamagotchis are coming",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "published": "2026-09-30T18:07:38+00:00",
+      "summary": "Meta and OpenAI are both preparing to release dedicated AI hardware products over the coming year. These efforts will test consumer interest in physical devices paired with software agents following past failures in the category.",
+      "category": "hardware",
+      "blurb": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]"
+    },
+    {
+      "id": "e9fb059e467d",
+      "title": "Reddit imposes new restrictions on Old Reddit",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/",
+      "published": "2026-09-30T17:49:56+00:00",
+      "summary": "Reddit has introduced new usage limits on its classic Old Reddit interface. The restrictions come as the company continues efforts to prevent unauthorized scraping across its platform.",
+      "category": "software",
+      "blurb": "The Old Reddit is dying; the new Reddit struggles to avoid scraping."
+    },
+    {
+      "id": "c0d04f5312a7",
+      "title": "Reddit says it has to cut back access to \u2018Old Reddit\u2019 because of AI bots",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+      "published": "2026-09-30T17:45:00+00:00",
+      "summary": "Reddit is rolling out stricter access controls for Old Reddit to combat automated traffic and AI scraping bots. After recently requiring accounts to log in to view the legacy layout, the site plans to impose additional restrictions in the coming months.",
+      "category": "software",
+      "blurb": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be logged in and have [&#8230;]"
+    },
+    {
+      "id": "8b112c5c2190",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "published": "2026-09-30T17:45:00+00:00",
+      "summary": "Reddit is shutting down public API access and discontinuing support for RSS feeds. The company is taking these measures to prevent AI bots from scraping its repository of user-generated content.",
+      "category": "software",
+      "blurb": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
     }
   ]
 }
