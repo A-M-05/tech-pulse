@@ -14,7 +14,7 @@ WINDOW_HOURS = 168
 MAX_ITEMS = 20
 
 # MODEL_NAME: which Gemini model (e.g. gemini flash variant).
-MODEL_NAME = "gemini-3.8-flash"
+MODEL_NAME = "gemini-3.1-flash-lite"
 
 # OUTPUT_PATH: where main.py writes the JSON (../output/digest.json).
 OUTPUT_PATH = Path("output/digest.json")

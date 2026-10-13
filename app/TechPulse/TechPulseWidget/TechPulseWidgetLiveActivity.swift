@@ -1,3 +1,4 @@
+#if !targetEnvironment(macCatalyst)
 //
 //  TechPulseWidgetLiveActivity.swift
 //  TechPulseWidget
@@ -78,3 +79,4 @@ extension TechPulseWidgetAttributes.ContentState {
     TechPulseWidgetAttributes.ContentState.smiley
     TechPulseWidgetAttributes.ContentState.starEyes
 }
+#endif

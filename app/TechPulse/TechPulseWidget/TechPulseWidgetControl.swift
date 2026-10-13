@@ -1,3 +1,4 @@
+#if !targetEnvironment(macCatalyst)
 //
 //  TechPulseWidgetControl.swift
 //  TechPulseWidget
@@ -52,3 +53,4 @@ struct StartTimerIntent: SetValueIntent {
         return .result()
     }
 }
+#endif

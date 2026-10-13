@@ -12,7 +12,9 @@ import SwiftUI
 struct TechPulseWidgetBundle: WidgetBundle {
     var body: some Widget {
         TechPulseWidget()
+        #if !targetEnvironment(macCatalyst)
         TechPulseWidgetControl()
         TechPulseWidgetLiveActivity()
+        #endif
     }
 }

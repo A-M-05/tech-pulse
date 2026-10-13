@@ -9,24 +9,34 @@ export default {
 Title: ${title}
 Summary: ${summary}`;
 
-    const geminiURL =
-      "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent";
-
-    const r = await fetch(geminiURL, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "x-goog-api-key": env.GEMINI_API_KEY,   // the secret, injected by Cloudflare
-      },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { maxOutputTokens: 2000 }
-        }),
+    const model = "gemini-3.1-flash-lite";
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
+    const body = JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { maxOutputTokens: 2000 },
     });
+
+    // retry on 503 ("high demand") with backoff
+    let r;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      r = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "x-goog-api-key": env.GEMINI_API_KEY },
+        body,
+      });
+      if (r.ok || r.status !== 503) break;
+      await new Promise(res => setTimeout(res, 800 * (attempt + 1)));
+    }
+
+    if (!r.ok) {
+      const err = await r.text();
+      return new Response(JSON.stringify({ text: `No response.` }),
+        { headers: { "Content-Type": "application/json" } });
+    }
 
     const data = await r.json();
     const parts = data?.candidates?.[0]?.content?.parts ?? [];
-    const text = parts.map(p => p.text ?? "").join("").trim() || "No response.";
+    const text = parts.map(p => p.text ?? "").join("").trim() || ("No response.");
 
     return new Response(JSON.stringify({ text }), {
       headers: { "Content-Type": "application/json" },
