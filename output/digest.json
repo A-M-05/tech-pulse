@@ -1,105 +1,205 @@
 {
-  "generated_at": "2026-09-30T23:20:01.923537+00:00",
+  "generated_at": "2026-10-12T22:25:50.761630+00:00",
   "items": [
     {
-      "id": "87c226509820",
-      "title": "The new and huger Paramount has a new co-CEO",
+      "id": "cc9408a7a676",
+      "title": "Why are your iPhone photos so blurry (and how to improve it)",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
+      "published": "2026-10-12T22:00:00+00:00",
+      "summary": "Blurry iPhone photos can stem from issues beyond a simple dirty lens. Adjusting specific camera settings can help users sharpen their shots and fix image clarity.",
+      "category": "software",
+      "blurb": "Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings."
+    },
+    {
+      "id": "c1d3345667cf",
+      "title": "The Social Reckoning is flopping at the box office",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-      "published": "2026-09-30T23:08:49+00:00",
-      "summary": "Paramount has appointed former Mattel chairman and CEO Ynon Kreiz as its new co-CEO ahead of its $110 billion merger with Warner Bros. Discovery. Kreiz will lead alongside chairman and CEO David Ellison. Ellison is set to focus on the company's long-term strategy, creative vision, and direction.",
+      "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+      "published": "2026-10-12T21:20:57+00:00",
+      "summary": "Aaron Sorkin's film The Social Reckoning has underperformed significantly at the box office despite having important messages. According to Variety, the movie brought in just $5.5 million over the weekend against a budget ranging between $30 million and $42 million.",
+      "category": "other",
+      "blurb": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it [&#8230;]"
+    },
+    {
+      "id": "be58c8a79ced",
+      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+      "published": "2026-10-12T20:48:19+00:00",
+      "summary": "Epic has reportedly delayed its upcoming Disney video game in order to incorporate more artificial intelligence into its creation. Developers were instructed to utilize AI tools for both code implementation and asset generation.",
+      "category": "ai",
+      "blurb": "Developers were apparently ordered to use AI for both code and asset creation."
+    },
+    {
+      "id": "f6fcff5febe9",
+      "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
+      "published": "2026-10-12T18:51:52+00:00",
+      "summary": "Meta claims its newest Wonder AI models have caught up to the industry's frontier tier. These models incorporate new capabilities such as active memory and active focus.",
+      "category": "ai",
+      "blurb": "The models add \"active memory\" and \"active focus\" abilities."
+    },
+    {
+      "id": "cd76646a173e",
+      "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
+      "published": "2026-10-12T18:34:57+00:00",
+      "summary": "Norwegian regulators fined Microsoft subsidiary Xandr $9.6 million over allegations of misusing user data from Grindr. The company now has a three-week window to appeal this record penalty.",
       "category": "company-news",
-      "blurb": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, creative vision and direction, including its [&#8230;]"
+      "blurb": "Xandr has three weeks to appeal the record penalty."
     },
     {
-      "id": "cfa609f87603",
-      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-      "published": "2026-09-30T23:08:00+00:00",
-      "summary": "Defense Secretary Pete Hegseth has launched a 120-day study on the future of warfare led by Elon Musk, Palmer Luckey, and Newt Gingrich. Critics note potential conflicts of interest, as Musk's and Luckey's companies already sell technologies the study is likely to recommend. The appointments come amid close ties between the leaders and the administration.",
-      "category": "other",
-      "blurb": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend."
-    },
-    {
-      "id": "b401c2bf9b36",
-      "title": "Elon Musk and Palmer Luckey will advise the government on the future of warfare",
+      "id": "ece447bc7987",
+      "title": "How to find your Amazon 'About You' page (and how to edit it)",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2274082/elon-musk-and-palmer-luckey-will-advise-the-government-on-the-future-of-warfare/",
-      "published": "2026-09-30T22:22:38+00:00",
-      "summary": "Elon Musk and Palmer Luckey have been selected to advise the government on the future of warfare. They will be joined by Newt Gingrich in advising on military strategy.",
-      "category": "other",
-      "blurb": "So will Newt Gingrich, for some reason."
+      "url": "https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/",
+      "published": "2026-10-12T18:30:00+00:00",
+      "summary": "Shoppers can locate and edit the Amazon About You page linked to their account. Checking this page reveals specific personal labels Amazon may have assigned, including whether it lists flat buttocks.",
+      "category": "software",
+      "blurb": "See if Amazon thinks you have \"flat buttocks.\""
     },
     {
-      "id": "659e31b9a884",
-      "title": "Fujifilm's Instax Pal 2 can plug directly into your smartphone to transfer images",
+      "id": "683e82625c38",
+      "title": "What's the difference between alkaline and lithium-ion batteries?",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2274075/fujifilm-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/",
-      "published": "2026-09-30T22:04:10+00:00",
-      "summary": "Fujifilm has introduced the Instax Pal 2, a small digital camera that can plug directly into a smartphone for image transfers. The device features tactile controls alongside software filters.",
+      "url": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
+      "published": "2026-10-12T18:00:00+00:00",
+      "summary": "Alkaline and lithium-ion batteries are built for very distinct use cases. They differ across several key factors, including lifespan, cost, rechargeability, and routine everyday applications.",
       "category": "hardware",
-      "blurb": "The small digital camera combines software filters with tactile controls."
+      "blurb": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use."
     },
     {
-      "id": "f9953f3a0f91",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "id": "80d24e118917",
+      "title": "Meta releases its first frontier model, Muse Wonder",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "published": "2026-09-30T21:07:40+00:00",
-      "summary": "AI startup Flow Engineering has reached a $750 million valuation with backing from Valor, Atreides, and Sequoia. The company brings AI agents to hardware design. Additionally, Roelof Botha joined as an angel investor and board member.",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "published": "2026-10-12T17:56:56+00:00",
+      "summary": "Meta has introduced Muse Wonder, its first frontier-level model. While the prior Muse Spark focused on lightweight, low-latency execution, the Wonder models are larger and provide better results on complex tasks like coding.",
       "category": "ai",
-      "blurb": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+      "blurb": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
     },
     {
-      "id": "858ef0104df7",
-      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
-      "published": "2026-09-30T20:45:00+00:00",
-      "summary": "Neon has announced an SCP Foundation movie licensed under Creative Commons following backlash against A24 from the horror community. A24 had faced criticism for announcing its own film without contacting the SCP Wiki team or committing to the required Creative Commons license. Neon aims to capitalize on the situation as a major PR win.",
+      "id": "e94640eb9a28",
+      "title": "2027 Rivian R2 review: The Goldilocks electric SUV",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2284218/2027-rivian-r2-review/",
+      "published": "2026-10-12T17:39:22+00:00",
+      "summary": "A review assesses the 2027 Rivian R2 as an electric SUV with ideal balance. It is characterized as being neither too large, too small, nor too costly, making it just right.",
+      "category": "hardware",
+      "blurb": "It's not too big, it's not too small and it's not too expensive. It's just right."
+    },
+    {
+      "id": "8e8b602fc5f5",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "published": "2026-10-12T17:19:14+00:00",
+      "summary": "Silicon Valley startup WindBorne has secured a U.S. Air Force contract valued at nearly $50 million. The company combines weather balloons and AI to deliver weather prediction data.",
       "category": "company-news",
-      "blurb": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by [&#8230;]"
+      "blurb": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
     },
     {
-      "id": "97fa5252aa29",
-      "title": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now",
+      "id": "238333f2aa29",
+      "title": "Beats is collaborating with Pok\u00e9mon for a Pikachu-themed Pill speaker",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/",
+      "published": "2026-10-12T17:11:30+00:00",
+      "summary": "Beats has teamed up with Pok\u00e9mon to release a Pikachu-themed edition of the Pill speaker. The partnership follows an earlier meeting between Pikachu and Apple CEO Tim Cook.",
+      "category": "hardware",
+      "blurb": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu."
+    },
+    {
+      "id": "5b0bbc20b589",
+      "title": "Meta has some Wonder Full new AI models",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "published": "2026-09-30T20:41:41+00:00",
-      "summary": "Google has unveiled its next frontier AI model, named Gemini 4 Argon, claiming high performance in complex workflows including software engineering, enterprise tasks, and cybersecurity defense. Due to its advanced capabilities, Google is currently restricting access strictly to trusted cyber defenders. The announcement was shared by Google DeepMind SVP Koray Kavukcuoglu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "published": "2026-10-12T17:00:00+00:00",
+      "summary": "Meta's revamped Superintelligence Labs division has launched two new AI models, Muse Wonder and Muse Wonder Full. Following the release of Muse Spark and the Muse AI agent, the company claims these new models can compete with the top systems in the industry.",
       "category": "ai",
-      "blurb": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [&#8230;]"
+      "blurb": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]"
     },
     {
-      "id": "d76d029e92f1",
-      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "published": "2026-09-30T20:39:09+00:00",
-      "summary": "The CEO of Factory has accused former board advisor Chris Degnan of spying on behalf of Cognition. Degnan, a venture capitalist, has taken on a new role as chief revenue officer at Cognition.",
+      "id": "4f05eeb200ed",
+      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "published": "2026-10-12T16:52:54+00:00",
+      "summary": "The New York Times reports that Elon Musk has donated more than $276 million to Republican causes since July, making him the top donor for midterm efforts. Approximately $158 million of that funding was directed toward Senate races as one of the largest political contributions in American history.",
       "category": "company-news",
-      "blurb": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition."
+      "blurb": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate [&#8230;]"
     },
     {
-      "id": "8f5f6c134c4e",
-      "title": "Is Neko Health\u2019s body scan worth it?\u00a0Spotify billionaire\u2019s\u00a0startup\u00a0has\u00a0come to America",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "published": "2026-09-30T20:20:02+00:00",
-      "summary": "Spotify founder Daniel Ek's startup Neko Health has expanded to America after raising $700 million to offer preventative body scanning. Other players like Midjourney and Function Health are also entering or expanding in the preventative healthcare market with significant funding. An episode of TechCrunch's Equity podcast explores why investors are placing such large bets on this category.",
-      "category": "company-news",
-      "blurb": "Spotify founder Daniel Ek\u2019s Neko Health\u00a0raised $700 million\u00a0to build a business around scanning your body, but\u00a0it\u2019s\u00a0not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is\u00a0building its own body scanner, while\u00a0Function Health\u00a0has also raised significant capital to build out its preventative-health platform.\u00a0Why are\u00a0investors betting\u00a0so big\u00a0on\u00a0this\u00a0category?\u00a0 On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, [&#8230;]"
+      "id": "02616b6d82da",
+      "title": "Here's what typically drains an EV battery the fastest",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/",
+      "published": "2026-10-12T16:45:00+00:00",
+      "summary": "Electric vehicle driving range continues to improve, but drivers still look for ways to maximize distance per charge. Certain vehicle behaviors and conditions are known to deplete an EV battery much faster than usual.",
+      "category": "hardware",
+      "blurb": "EVs are improving their range all the time, but you're looking to maximize your car's miles, right? Certain things will drain your battery most quickly."
     },
     {
-      "id": "d95f3d7ee390",
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "published": "2026-09-30T19:29:08+00:00",
-      "summary": "The Department of Defense has informed millions of current and former U.S. military personnel that their personal information was compromised. The data theft occurred during a months-long data breach executed by hackers.",
+      "id": "abb37ddc4df1",
+      "title": "What happens to Google and Apple accounts when the owner dies?",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
+      "published": "2026-10-12T16:15:00+00:00",
+      "summary": "A person's digital footprint remains behind after death alongside their physical estate. This raises questions about how tech companies such as Apple and Google handle and manage that stored user data.",
       "category": "other",
-      "blurb": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach."
+      "blurb": "When we die, it's not just physical estates that need to be settled, an entire digital footprint survives us. So what do Apple and Google do with that data?"
+    },
+    {
+      "id": "5e65031f0f1f",
+      "title": "Citro\u00ebn has brought back the iconic 2 CV as an electric concept car",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2284004/citroen-has-brought-back-the-iconic-2-cv-as-an-electric-concept-car/",
+      "published": "2026-10-12T16:10:40+00:00",
+      "summary": "Citro\u00ebn has introduced an electric concept vehicle based on its classic 2 CV model. However, whatever production models are inspired by the vehicle will not be made available in the United States.",
+      "category": "hardware",
+      "blurb": "Sadly we won't be seeing whatever this car inspires stateside."
+    },
+    {
+      "id": "da37f660d5f7",
+      "title": "Smart just unveiled a new ultra-compact EV at the Paris Motor Show",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2283979/smart-just-unveiled-a-new-ultra-compact-ev-at-the-paris-motor-show/",
+      "published": "2026-10-12T15:59:21+00:00",
+      "summary": "Smart has revealed a brand-new ultra-compact electric car during the Paris Motor Show. The small vehicle is designed to offer decent mileage performance per battery charge.",
+      "category": "hardware",
+      "blurb": "A little car with decent mileage per charge."
+    },
+    {
+      "id": "fa08cc00ea9a",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "published": "2026-10-12T15:45:00+00:00",
+      "summary": "Honeyjar provides AI-driven tools aimed at improving communications and PR workflows across companies. The offering targets common pain points in a PR industry widely viewed as broken by journalists, founders, and PR specialists.",
+      "category": "ai",
+      "blurb": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+    },
+    {
+      "id": "a3bfec9ab5f5",
+      "title": "How to improve your Android phone's location accuracy",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2281478/how-to-improve-android-phone-location-accuracy/",
+      "published": "2026-10-12T15:45:00+00:00",
+      "summary": "Android users who notice inaccurate positioning on their maps can adjust specific settings on their device. Checking and updating these location-related controls helps optimize overall navigation accuracy.",
+      "category": "software",
+      "blurb": "There are a few settings to check if you're having issues with your map's location accuracy."
+    },
+    {
+      "id": "c58879e80437",
+      "title": "How much RAM does a Raspberry Pi actually need?",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2275484/raspberry-pi-how-much-ram-needed/",
+      "published": "2026-10-12T15:45:00+00:00",
+      "summary": "Raspberry Pi boards offer hobbyists an inexpensive platform to build computing projects. Even so, determining the right amount of memory needed for a project can be challenging.",
+      "category": "hardware",
+      "blurb": "Raspberry Pi boards have helped hobbyists get computing projects started for very little money down. However, knowing how much memory is needed can be tricky."
     }
   ]
 }
