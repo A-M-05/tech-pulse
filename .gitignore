@@ -14,3 +14,7 @@ xcuserdata/
 node_modules/
 .wrangler/
 .dev.vars
+
+# build artifacts
+*.zip
+*.app
