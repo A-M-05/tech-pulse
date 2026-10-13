@@ -3,3 +3,14 @@ venv/
 .DS_Store
 __pycache__/
 *.pyc
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Node / Cloudflare
+node_modules/
+.wrangler/
+.dev.vars

@@ -9,7 +9,7 @@
 #   print a one-line summary (how many items written) so a run is easy to verify.
 
 from fetch import fetch_all
-from process import filter_recent, dedupe, select_top
+from process import filter_recent, dedupe, dedupe_similar, select_top
 from summarize import summarize
 from models import NewsItem, Digest
 from dataclasses import asdict
@@ -20,7 +20,7 @@ import os
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
 
 raw = fetch_all(FEEDS)
-top = select_top(dedupe(filter_recent(raw, WINDOW_HOURS)), MAX_ITEMS)
+top = select_top(dedupe_similar(dedupe(filter_recent(raw, WINDOW_HOURS))), MAX_ITEMS)
 entries = [NewsItem.from_raw(d) for d in top]
 items = summarize(entries)
 
