@@ -1,205 +1,205 @@
 {
-  "generated_at": "2026-10-12T22:25:50.761630+00:00",
+  "generated_at": "2026-10-19T20:18:45.182771+00:00",
   "items": [
     {
-      "id": "cc9408a7a676",
-      "title": "Why are your iPhone photos so blurry (and how to improve it)",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
-      "published": "2026-10-12T22:00:00+00:00",
-      "summary": "Blurry iPhone photos can stem from issues beyond a simple dirty lens. Adjusting specific camera settings can help users sharpen their shots and fix image clarity.",
-      "category": "software",
-      "blurb": "Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings."
+      "id": "aaaf393dcb10",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published": "2026-10-19T20:09:24+00:00",
+      "summary": "Amazon has launched a new dev tool called TorchNeuron to challenge Nvidia's dominance in the PyTorch ecosystem. The tool aims to encourage developers to utilize alternative chips instead of Nvidia hardware.",
+      "category": "ai",
+      "blurb": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
     },
     {
-      "id": "c1d3345667cf",
-      "title": "The Social Reckoning is flopping at the box office",
+      "id": "039a84854fb8",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published": "2026-10-19T19:28:34+00:00",
+      "summary": "Hackers have compromised the open-source AI coding tool OpenCode, leading to unauthorized charges on user accounts. The breach involved stolen API keys and difficulties in detecting the malicious code.",
+      "category": "ai",
+      "blurb": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+    },
+    {
+      "id": "e37065d0e754",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "published": "2026-10-19T19:00:12+00:00",
+      "summary": "AI companion app Tolan has successfully raised $30 million in new funding. The app has reached a milestone of over 250,000 active users.",
+      "category": "ai",
+      "blurb": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+    },
+    {
+      "id": "07feed26314f",
+      "title": "Sony\u2019s best noise-canceling earbuds are nearly $100\u00a0off today only",
       "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
-      "published": "2026-10-12T21:20:57+00:00",
-      "summary": "Aaron Sorkin's film The Social Reckoning has underperformed significantly at the box office despite having important messages. According to Variety, the movie brought in just $5.5 million over the weekend against a budget ranging between $30 million and $42 million.",
+      "url": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+      "published": "2026-10-19T18:52:41+00:00",
+      "summary": "Sony's latest WF-1000XM6 noise-canceling earbuds are available at an all-time low price of $238 at B&H Photo. This limited-time deal makes the new model cheaper than the previous version.",
+      "category": "hardware",
+      "blurb": "For a very limited time, Sony\u2019s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony\u2019s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren\u2019t currently offering a discount on the XM6. The XM6 are a solid upgrade over [&#8230;]"
+    },
+    {
+      "id": "71c2d7263cd3",
+      "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "published": "2026-10-19T18:49:04+00:00",
+      "summary": "Replika founder Eugenia Kuyda has launched a new startup called Wabi. The company provides a personal AI assistant that is now available for public download.",
+      "category": "ai",
+      "blurb": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+    },
+    {
+      "id": "36c2a79412d5",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "published": "2026-10-19T18:37:27+00:00",
+      "summary": "Tenstorrent has reached a $6.2 billion valuation after raising $1.5 billion in funding. The company, which builds open-weight AI chips, aims to maintain its independence.",
+      "category": "hardware",
+      "blurb": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+    },
+    {
+      "id": "45e86f708676",
+      "title": "Here's how we would build out the perfect modular electric Slate truck",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2289274/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck/",
+      "published": "2026-10-19T18:30:00+00:00",
+      "summary": "Designers explore concepts for a modular electric truck titled the Slate. The vehicle is envisioned as a modernized version of the classic Bronco.",
       "category": "other",
-      "blurb": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it [&#8230;]"
+      "blurb": "A Bronco for the modern age."
     },
     {
-      "id": "be58c8a79ced",
-      "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "id": "4f4ffface81b",
+      "title": "We might finally know what's written on that mysterious plaque in Super Mario 64",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
-      "published": "2026-10-12T20:48:19+00:00",
-      "summary": "Epic has reportedly delayed its upcoming Disney video game in order to incorporate more artificial intelligence into its creation. Developers were instructed to utilize AI tools for both code implementation and asset generation.",
-      "category": "ai",
-      "blurb": "Developers were apparently ordered to use AI for both code and asset creation."
-    },
-    {
-      "id": "f6fcff5febe9",
-      "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
-      "published": "2026-10-12T18:51:52+00:00",
-      "summary": "Meta claims its newest Wonder AI models have caught up to the industry's frontier tier. These models incorporate new capabilities such as active memory and active focus.",
-      "category": "ai",
-      "blurb": "The models add \"active memory\" and \"active focus\" abilities."
-    },
-    {
-      "id": "cd76646a173e",
-      "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
-      "published": "2026-10-12T18:34:57+00:00",
-      "summary": "Norwegian regulators fined Microsoft subsidiary Xandr $9.6 million over allegations of misusing user data from Grindr. The company now has a three-week window to appeal this record penalty.",
-      "category": "company-news",
-      "blurb": "Xandr has three weeks to appeal the record penalty."
-    },
-    {
-      "id": "ece447bc7987",
-      "title": "How to find your Amazon 'About You' page (and how to edit it)",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/",
-      "published": "2026-10-12T18:30:00+00:00",
-      "summary": "Shoppers can locate and edit the Amazon About You page linked to their account. Checking this page reveals specific personal labels Amazon may have assigned, including whether it lists flat buttocks.",
-      "category": "software",
-      "blurb": "See if Amazon thinks you have \"flat buttocks.\""
-    },
-    {
-      "id": "683e82625c38",
-      "title": "What's the difference between alkaline and lithium-ion batteries?",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
-      "published": "2026-10-12T18:00:00+00:00",
-      "summary": "Alkaline and lithium-ion batteries are built for very distinct use cases. They differ across several key factors, including lifespan, cost, rechargeability, and routine everyday applications.",
-      "category": "hardware",
-      "blurb": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use."
-    },
-    {
-      "id": "80d24e118917",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "published": "2026-10-12T17:56:56+00:00",
-      "summary": "Meta has introduced Muse Wonder, its first frontier-level model. While the prior Muse Spark focused on lightweight, low-latency execution, the Wonder models are larger and provide better results on complex tasks like coding.",
-      "category": "ai",
-      "blurb": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
-    },
-    {
-      "id": "e94640eb9a28",
-      "title": "2027 Rivian R2 review: The Goldilocks electric SUV",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2284218/2027-rivian-r2-review/",
-      "published": "2026-10-12T17:39:22+00:00",
-      "summary": "A review assesses the 2027 Rivian R2 as an electric SUV with ideal balance. It is characterized as being neither too large, too small, nor too costly, making it just right.",
-      "category": "hardware",
-      "blurb": "It's not too big, it's not too small and it's not too expensive. It's just right."
-    },
-    {
-      "id": "8e8b602fc5f5",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "published": "2026-10-12T17:19:14+00:00",
-      "summary": "Silicon Valley startup WindBorne has secured a U.S. Air Force contract valued at nearly $50 million. The company combines weather balloons and AI to deliver weather prediction data.",
-      "category": "company-news",
-      "blurb": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
-    },
-    {
-      "id": "238333f2aa29",
-      "title": "Beats is collaborating with Pok\u00e9mon for a Pikachu-themed Pill speaker",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/",
-      "published": "2026-10-12T17:11:30+00:00",
-      "summary": "Beats has teamed up with Pok\u00e9mon to release a Pikachu-themed edition of the Pill speaker. The partnership follows an earlier meeting between Pikachu and Apple CEO Tim Cook.",
-      "category": "hardware",
-      "blurb": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu."
-    },
-    {
-      "id": "5b0bbc20b589",
-      "title": "Meta has some Wonder Full new AI models",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "published": "2026-10-12T17:00:00+00:00",
-      "summary": "Meta's revamped Superintelligence Labs division has launched two new AI models, Muse Wonder and Muse Wonder Full. Following the release of Muse Spark and the Muse AI agent, the company claims these new models can compete with the top systems in the industry.",
-      "category": "ai",
-      "blurb": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]"
-    },
-    {
-      "id": "4f05eeb200ed",
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "published": "2026-10-12T16:52:54+00:00",
-      "summary": "The New York Times reports that Elon Musk has donated more than $276 million to Republican causes since July, making him the top donor for midterm efforts. Approximately $158 million of that funding was directed toward Senate races as one of the largest political contributions in American history.",
-      "category": "company-news",
-      "blurb": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate [&#8230;]"
-    },
-    {
-      "id": "02616b6d82da",
-      "title": "Here's what typically drains an EV battery the fastest",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/",
-      "published": "2026-10-12T16:45:00+00:00",
-      "summary": "Electric vehicle driving range continues to improve, but drivers still look for ways to maximize distance per charge. Certain vehicle behaviors and conditions are known to deplete an EV battery much faster than usual.",
-      "category": "hardware",
-      "blurb": "EVs are improving their range all the time, but you're looking to maximize your car's miles, right? Certain things will drain your battery most quickly."
-    },
-    {
-      "id": "abb37ddc4df1",
-      "title": "What happens to Google and Apple accounts when the owner dies?",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/",
-      "published": "2026-10-12T16:15:00+00:00",
-      "summary": "A person's digital footprint remains behind after death alongside their physical estate. This raises questions about how tech companies such as Apple and Google handle and manage that stored user data.",
+      "url": "https://www.engadget.com/2290685/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/",
+      "published": "2026-10-19T18:10:14+00:00",
+      "summary": "A long-standing mystery regarding a plaque in the game Super Mario 64 may finally be solved. The message has intrigued internet users for three decades.",
       "category": "other",
-      "blurb": "When we die, it's not just physical estates that need to be settled, an entire digital footprint survives us. So what do Apple and Google do with that data?"
+      "blurb": "The plaque's message has haunted the internet for 30 years."
     },
     {
-      "id": "5e65031f0f1f",
-      "title": "Citro\u00ebn has brought back the iconic 2 CV as an electric concept car",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2284004/citroen-has-brought-back-the-iconic-2-cv-as-an-electric-concept-car/",
-      "published": "2026-10-12T16:10:40+00:00",
-      "summary": "Citro\u00ebn has introduced an electric concept vehicle based on its classic 2 CV model. However, whatever production models are inspired by the vehicle will not be made available in the United States.",
-      "category": "hardware",
-      "blurb": "Sadly we won't be seeing whatever this car inspires stateside."
-    },
-    {
-      "id": "da37f660d5f7",
-      "title": "Smart just unveiled a new ultra-compact EV at the Paris Motor Show",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2283979/smart-just-unveiled-a-new-ultra-compact-ev-at-the-paris-motor-show/",
-      "published": "2026-10-12T15:59:21+00:00",
-      "summary": "Smart has revealed a brand-new ultra-compact electric car during the Paris Motor Show. The small vehicle is designed to offer decent mileage performance per battery charge.",
-      "category": "hardware",
-      "blurb": "A little car with decent mileage per charge."
-    },
-    {
-      "id": "fa08cc00ea9a",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "id": "ebe42a2b25a5",
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "published": "2026-10-12T15:45:00+00:00",
-      "summary": "Honeyjar provides AI-driven tools aimed at improving communications and PR workflows across companies. The offering targets common pain points in a PR industry widely viewed as broken by journalists, founders, and PR specialists.",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "published": "2026-10-19T18:00:39+00:00",
+      "summary": "The AI assistant startup Town has achieved a unicorn valuation following a $108 million Series B funding round. The investment was co-led by Forerunner Ventures and Menlo Ventures.",
       "category": "ai",
-      "blurb": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+      "blurb": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
     },
     {
-      "id": "a3bfec9ab5f5",
-      "title": "How to improve your Android phone's location accuracy",
+      "id": "5f87f126ce80",
+      "title": "Is paid antivirus actually a waste of money for your PC in 2026?",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2281478/how-to-improve-android-phone-location-accuracy/",
-      "published": "2026-10-12T15:45:00+00:00",
-      "summary": "Android users who notice inaccurate positioning on their maps can adjust specific settings on their device. Checking and updating these location-related controls helps optimize overall navigation accuracy.",
+      "url": "https://www.engadget.com/2287979/is-paid-antivirus-for-pc-waste-of-money/",
+      "published": "2026-10-19T18:00:00+00:00",
+      "summary": "This article discusses whether paid antivirus software remains a necessary expense for modern PC users. It suggests that such suites are significantly less useful today than they were in the past.",
       "category": "software",
-      "blurb": "There are a few settings to check if you're having issues with your map's location accuracy."
+      "blurb": "Subscribing to an antivirus suite kept you safe a long time ago, but they're much less useful for most people today."
     },
     {
-      "id": "c58879e80437",
-      "title": "How much RAM does a Raspberry Pi actually need?",
+      "id": "420a1d725613",
+      "title": "Rivian\u2019s CEO says autonomy will enable \u2018dramatically different\u2019 vehicle designs",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "published": "2026-10-19T17:39:51+00:00",
+      "summary": "Rivian CEO RJ Scaringe believes that autonomous technology will fundamentally change the design of future vehicles. This shift could lead the company to develop models beyond its current SUV and truck lineup.",
+      "category": "company-news",
+      "blurb": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes."
+    },
+    {
+      "id": "92bf044e6717",
+      "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2275484/raspberry-pi-how-much-ram-needed/",
-      "published": "2026-10-12T15:45:00+00:00",
-      "summary": "Raspberry Pi boards offer hobbyists an inexpensive platform to build computing projects. Even so, determining the right amount of memory needed for a project can be challenging.",
+      "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
+      "published": "2026-10-19T16:59:28+00:00",
+      "summary": "The U.S. Department of Homeland Security has prohibited the use of DeepSeek within federal civilian agencies. The ban follows the recent release of the latest AI model from DeepSeek.",
+      "category": "ai",
+      "blurb": "The decision comes a couple of days after the release of Deepseek's latest AI model."
+    },
+    {
+      "id": "9af7623112d7",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "published": "2026-10-19T16:55:56+00:00",
+      "summary": "Amazon has partnered with X-energy to fund 12 small modular nuclear reactors at a former coal site in Indiana. This project is expected to generate nearly 1 gigawatt of electricity for the power grid.",
+      "category": "company-news",
+      "blurb": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity."
+    },
+    {
+      "id": "b89a07c39db4",
+      "title": "At what distance does a video doorbell stop detecting motion?",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion/",
+      "published": "2026-10-19T16:45:00+00:00",
+      "summary": "Video doorbells may fail to send motion alerts for several reasons beyond just distance. Various environmental and technical factors can impact the device's detection capabilities.",
       "category": "hardware",
-      "blurb": "Raspberry Pi boards have helped hobbyists get computing projects started for very little money down. However, knowing how much memory is needed can be tricky."
+      "blurb": "Your video doorbell might see a visitor without sending an alert. Detection depends on more than distance, and some surprising factors can affect its reach."
+    },
+    {
+      "id": "ad03a2e31e8d",
+      "title": "Fiber vs. cable internet: What's the difference between them?",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
+      "published": "2026-10-19T16:15:00+00:00",
+      "summary": "The article compares fiber and cable internet technologies. While fiber is considered more modern, cable remains a capable solution for current connectivity needs.",
+      "category": "other",
+      "blurb": "Fiber internet is more modern than cable, but the older technology still works well for today's connection needs."
+    },
+    {
+      "id": "f93d80856f11",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "published": "2026-10-19T16:13:22+00:00",
+      "summary": "Smart TV owners are increasingly using AI agents to remove intrusive ads and bloatware from their devices. This trend reflects growing frustration with the complexity and tracking features of modern smart TV interfaces.",
+      "category": "ai",
+      "blurb": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+    },
+    {
+      "id": "e025b45702e4",
+      "title": "Apple is set to hold another product event on October 28",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/",
+      "published": "2026-10-19T16:09:26+00:00",
+      "summary": "Apple has scheduled a product event for October 28 in Los Angeles. The event is expected to feature a new touchscreen Mac.",
+      "category": "company-news",
+      "blurb": "Apple's \"Pro and Tell\" event is taking place in Los Angeles and will likely feature the first touchscreen Mac."
+    },
+    {
+      "id": "08d37a40f06b",
+      "title": "Apple teases MacBook Pro event next week",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "published": "2026-10-19T16:04:29+00:00",
+      "summary": "Apple has announced an event for October 28th to reveal new hardware. Expected products include updated Macs and a refreshed iPad Mini, with a new OLED MacBook Pro being the rumored headline.",
+      "category": "company-news",
+      "blurb": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED [&#8230;]"
+    },
+    {
+      "id": "bf92df883e24",
+      "title": "Why your USB device keeps disconnecting (and how to fix it)",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2287812/usb-device-disconnecting-reasons/",
+      "published": "2026-10-19T15:45:00+00:00",
+      "summary": "This guide provides troubleshooting steps for resolving persistent USB connection issues. It suggests focusing on the physical ports as part of the diagnosis process.",
+      "category": "hardware",
+      "blurb": "If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try."
+    },
+    {
+      "id": "292580429c9b",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "published": "2026-10-19T15:44:20+00:00",
+      "summary": "Amazon has reached an agreement with X-energy and American Electric Power to build a nuclear energy plant in Indiana. The facility aims to generate nearly 1 gigawatt of carbon-free electricity on a decommissioned coal plant site.",
+      "category": "company-news",
+      "blurb": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [&#8230;]"
     }
   ]
 }
