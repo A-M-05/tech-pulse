@@ -1,205 +1,205 @@
 {
-  "generated_at": "2026-10-19T20:18:45.182771+00:00",
+  "generated_at": "2026-10-26T20:15:15.399696+00:00",
   "items": [
     {
-      "id": "aaaf393dcb10",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "published": "2026-10-19T20:09:24+00:00",
-      "summary": "Amazon has launched a new dev tool called TorchNeuron to challenge Nvidia's dominance in the PyTorch ecosystem. The tool aims to encourage developers to utilize alternative chips instead of Nvidia hardware.",
+      "id": "1783c585a356",
+      "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
+      "published": "2026-10-26T19:47:56+00:00",
+      "summary": "Apple has released system updates across its platforms that include new Siri AI capabilities. These updates are available to users starting today.",
       "category": "ai",
-      "blurb": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+      "blurb": "Apple has rolled out software updates for all its platforms today."
     },
     {
-      "id": "039a84854fb8",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+      "id": "9665c1e51960",
+      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "published": "2026-10-19T19:28:34+00:00",
-      "summary": "Hackers have compromised the open-source AI coding tool OpenCode, leading to unauthorized charges on user accounts. The breach involved stolen API keys and difficulties in detecting the malicious code.",
-      "category": "ai",
-      "blurb": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "published": "2026-10-26T19:22:40+00:00",
+      "summary": "Early users of Apple's new foldable iPhone Duo are reporting instances of the screen cracking. This has led to dissatisfaction among the device's early adopters.",
+      "category": "hardware",
+      "blurb": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking."
     },
     {
-      "id": "e37065d0e754",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "published": "2026-10-19T19:00:12+00:00",
-      "summary": "AI companion app Tolan has successfully raised $30 million in new funding. The app has reached a milestone of over 250,000 active users.",
-      "category": "ai",
-      "blurb": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+      "id": "1ff55fbc213c",
+      "title": "Ghost of Y\u014dtei studio Sucker Punch reportedly lays off 24 workers",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
+      "published": "2026-10-26T19:15:34+00:00",
+      "summary": "Sucker Punch, the studio behind the recently released expansion for Ghost of Y\u014dtei, has reportedly laid off 24 employees. This news comes shortly after the success of their latest project.",
+      "category": "company-news",
+      "blurb": "Developer Sucker Punch just released a well-received expansion for Ghost of Y\u014dtei a few weeks ago."
     },
     {
-      "id": "07feed26314f",
-      "title": "Sony\u2019s best noise-canceling earbuds are nearly $100\u00a0off today only",
+      "id": "0e102d0bee7c",
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+      "published": "2026-10-26T18:59:52+00:00",
+      "summary": "Fusion startups are being asked by the government to provide equity in exchange for funding awards. The industry is currently evaluating whether this trade-off is beneficial.",
+      "category": "company-news",
+      "blurb": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?"
+    },
+    {
+      "id": "0071b63359c1",
+      "title": "Apple responds to reports of the iPhone Duo's inner display cracking",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
+      "published": "2026-10-26T18:52:02+00:00",
+      "summary": "Apple has issued a response regarding reports of cracked inner displays on the new iPhone Duo. Impacted customers are advised to contact AppleCare for potential device replacements.",
+      "category": "company-news",
+      "blurb": "Impacted users can contact AppleCare for a replacement."
+    },
+    {
+      "id": "a95cbb9d120c",
+      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
-      "published": "2026-10-19T18:52:41+00:00",
-      "summary": "Sony's latest WF-1000XM6 noise-canceling earbuds are available at an all-time low price of $238 at B&H Photo. This limited-time deal makes the new model cheaper than the previous version.",
-      "category": "hardware",
-      "blurb": "For a very limited time, Sony\u2019s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony\u2019s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren\u2019t currently offering a discount on the XM6. The XM6 are a solid upgrade over [&#8230;]"
-    },
-    {
-      "id": "71c2d7263cd3",
-      "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "published": "2026-10-19T18:49:04+00:00",
-      "summary": "Replika founder Eugenia Kuyda has launched a new startup called Wabi. The company provides a personal AI assistant that is now available for public download.",
-      "category": "ai",
-      "blurb": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
-    },
-    {
-      "id": "36c2a79412d5",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "published": "2026-10-19T18:37:27+00:00",
-      "summary": "Tenstorrent has reached a $6.2 billion valuation after raising $1.5 billion in funding. The company, which builds open-weight AI chips, aims to maintain its independence.",
-      "category": "hardware",
-      "blurb": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
-    },
-    {
-      "id": "45e86f708676",
-      "title": "Here's how we would build out the perfect modular electric Slate truck",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2289274/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck/",
-      "published": "2026-10-19T18:30:00+00:00",
-      "summary": "Designers explore concepts for a modular electric truck titled the Slate. The vehicle is envisioned as a modernized version of the classic Bronco.",
-      "category": "other",
-      "blurb": "A Bronco for the modern age."
-    },
-    {
-      "id": "4f4ffface81b",
-      "title": "We might finally know what's written on that mysterious plaque in Super Mario 64",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2290685/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/",
-      "published": "2026-10-19T18:10:14+00:00",
-      "summary": "A long-standing mystery regarding a plaque in the game Super Mario 64 may finally be solved. The message has intrigued internet users for three decades.",
-      "category": "other",
-      "blurb": "The plaque's message has haunted the internet for 30 years."
-    },
-    {
-      "id": "ebe42a2b25a5",
-      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "published": "2026-10-19T18:00:39+00:00",
-      "summary": "The AI assistant startup Town has achieved a unicorn valuation following a $108 million Series B funding round. The investment was co-led by Forerunner Ventures and Menlo Ventures.",
-      "category": "ai",
-      "blurb": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
-    },
-    {
-      "id": "5f87f126ce80",
-      "title": "Is paid antivirus actually a waste of money for your PC in 2026?",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2287979/is-paid-antivirus-for-pc-waste-of-money/",
-      "published": "2026-10-19T18:00:00+00:00",
-      "summary": "This article discusses whether paid antivirus software remains a necessary expense for modern PC users. It suggests that such suites are significantly less useful today than they were in the past.",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "published": "2026-10-26T18:51:06+00:00",
+      "summary": "The iOS 27.2 update introduces Apple Pencil support for the iPhone Duo and adds a new Edge Light feature for video calls. This fulfills the company's previous promise to bring stylus support to the device this year.",
       "category": "software",
-      "blurb": "Subscribing to an antivirus suite kept you safe a long time ago, but they're much less useful for most people today."
+      "blurb": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first [&#8230;]"
     },
     {
-      "id": "420a1d725613",
-      "title": "Rivian\u2019s CEO says autonomy will enable \u2018dramatically different\u2019 vehicle designs",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-      "published": "2026-10-19T17:39:51+00:00",
-      "summary": "Rivian CEO RJ Scaringe believes that autonomous technology will fundamentally change the design of future vehicles. This shift could lead the company to develop models beyond its current SUV and truck lineup.",
-      "category": "company-news",
-      "blurb": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes."
-    },
-    {
-      "id": "92bf044e6717",
-      "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+      "id": "40c37f731511",
+      "title": "Your Apple TV remote has handy shortcuts most people never use",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
-      "published": "2026-10-19T16:59:28+00:00",
-      "summary": "The U.S. Department of Homeland Security has prohibited the use of DeepSeek within federal civilian agencies. The ban follows the recent release of the latest AI model from DeepSeek.",
-      "category": "ai",
-      "blurb": "The decision comes a couple of days after the release of Deepseek's latest AI model."
-    },
-    {
-      "id": "9af7623112d7",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "published": "2026-10-19T16:55:56+00:00",
-      "summary": "Amazon has partnered with X-energy to fund 12 small modular nuclear reactors at a former coal site in Indiana. This project is expected to generate nearly 1 gigawatt of electricity for the power grid.",
-      "category": "company-news",
-      "blurb": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity."
-    },
-    {
-      "id": "b89a07c39db4",
-      "title": "At what distance does a video doorbell stop detecting motion?",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion/",
-      "published": "2026-10-19T16:45:00+00:00",
-      "summary": "Video doorbells may fail to send motion alerts for several reasons beyond just distance. Various environmental and technical factors can impact the device's detection capabilities.",
-      "category": "hardware",
-      "blurb": "Your video doorbell might see a visitor without sending an alert. Detection depends on more than distance, and some surprising factors can affect its reach."
-    },
-    {
-      "id": "ad03a2e31e8d",
-      "title": "Fiber vs. cable internet: What's the difference between them?",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
-      "published": "2026-10-19T16:15:00+00:00",
-      "summary": "The article compares fiber and cable internet technologies. While fiber is considered more modern, cable remains a capable solution for current connectivity needs.",
+      "url": "https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/",
+      "published": "2026-10-26T18:30:00+00:00",
+      "summary": "The Apple TV remote includes several hidden shortcuts designed to improve navigation. Learning these functions can make managing menus much easier for users.",
       "category": "other",
-      "blurb": "Fiber internet is more modern than cable, but the older technology still works well for today's connection needs."
+      "blurb": "Getting to know your remote a little better makes it a lot easier to navigate the Apple TV menus."
     },
     {
-      "id": "f93d80856f11",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "published": "2026-10-19T16:13:22+00:00",
-      "summary": "Smart TV owners are increasingly using AI agents to remove intrusive ads and bloatware from their devices. This trend reflects growing frustration with the complexity and tracking features of modern smart TV interfaces.",
-      "category": "ai",
-      "blurb": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
-    },
-    {
-      "id": "e025b45702e4",
-      "title": "Apple is set to hold another product event on October 28",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/",
-      "published": "2026-10-19T16:09:26+00:00",
-      "summary": "Apple has scheduled a product event for October 28 in Los Angeles. The event is expected to feature a new touchscreen Mac.",
-      "category": "company-news",
-      "blurb": "Apple's \"Pro and Tell\" event is taking place in Los Angeles and will likely feature the first touchscreen Mac."
-    },
-    {
-      "id": "08d37a40f06b",
-      "title": "Apple teases MacBook Pro event next week",
+      "id": "3676c5b47e2c",
+      "title": "The NBA\u2019s response to gambling scandals is to add more gambling partnerships",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
-      "published": "2026-10-19T16:04:29+00:00",
-      "summary": "Apple has announced an event for October 28th to reveal new hardware. Expected products include updated Macs and a refreshed iPad Mini, with a new OLED MacBook Pro being the rumored headline.",
+      "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+      "published": "2026-10-26T18:22:06+00:00",
+      "summary": "Despite ongoing gambling controversies, the NBA has announced new partnership deals with prediction market platforms Kalshi and Polymarket. This move continues the league's association with betting-related services.",
       "category": "company-news",
-      "blurb": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED [&#8230;]"
+      "blurb": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi and Polymarket, as well as [&#8230;]"
     },
     {
-      "id": "bf92df883e24",
-      "title": "Why your USB device keeps disconnecting (and how to fix it)",
+      "id": "d5021e59151f",
+      "title": "How to use your Samsung Galaxy phone to wirelessly charge other devices",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2287812/usb-device-disconnecting-reasons/",
-      "published": "2026-10-19T15:45:00+00:00",
-      "summary": "This guide provides troubleshooting steps for resolving persistent USB connection issues. It suggests focusing on the physical ports as part of the diagnosis process.",
+      "url": "https://www.engadget.com/2294444/how-to-use-samsung-galaxy-phone-wireless-powershare-charging/",
+      "published": "2026-10-26T18:00:00+00:00",
+      "summary": "Many newer Samsung Galaxy smartphones feature the ability to wirelessly charge other devices. This feature serves as a convenient power source for users in need.",
       "category": "hardware",
-      "blurb": "If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try."
+      "blurb": "If you're in desperate need of power, lots of newer Samsung phones can wirelessly charge other devices."
     },
     {
-      "id": "292580429c9b",
-      "title": "Amazon is funding a new nuclear plant in Indiana",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "published": "2026-10-19T15:44:20+00:00",
-      "summary": "Amazon has reached an agreement with X-energy and American Electric Power to build a nuclear energy plant in Indiana. The facility aims to generate nearly 1 gigawatt of carbon-free electricity on a decommissioned coal plant site.",
+      "id": "ea61feedd133",
+      "title": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "published": "2026-10-26T17:45:00+00:00",
+      "summary": "Bedrock Robotics has secured $600 million in funding, bringing its valuation to $4.1 billion. The company aims to address the shortage of skilled operators through its autonomous excavators.",
       "category": "company-news",
-      "blurb": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [&#8230;]"
+      "blurb": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+    },
+    {
+      "id": "9ff19066829b",
+      "title": "Instagram wants you to watch 90-minute videos on your TV",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2297240/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/",
+      "published": "2026-10-26T17:36:39+00:00",
+      "summary": "Instagram is exploring long-form content by experimenting with 90-minute videos. These videos are specifically intended to be viewed on television sets.",
+      "category": "software",
+      "blurb": "Instagram is experimenting with longform video again."
+    },
+    {
+      "id": "2500a6aad874",
+      "title": "The RealReal won\u2019t let AI agents hog designer clothing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "published": "2026-10-26T17:30:55+00:00",
+      "summary": "The RealReal is upgrading its bot defense system to prevent AI agents from reserving designer items. The decision follows reports that AI tools were being used to manipulate the site's reservation system.",
+      "category": "software",
+      "blurb": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]"
+    },
+    {
+      "id": "7adce899d2ab",
+      "title": "Apple acknowledges iPhone Duo display \u2018issue\u2019 after reports of cracked screens",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "published": "2026-10-26T17:28:07+00:00",
+      "summary": "Apple has officially acknowledged a display issue affecting a small number of iPhone Duo units. The problem, which manifests as a bright line on the screen, is currently being addressed by the company.",
+      "category": "hardware",
+      "blurb": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo [&#8230;]"
+    },
+    {
+      "id": "46af7b57ae99",
+      "title": "Nothing\u2019s eye-catching Ear 3A earbuds are matching their best price to date",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+      "published": "2026-10-26T17:25:34+00:00",
+      "summary": "Nothing's Ear 3A wireless earbuds are currently on sale for $79 across several major retailers. The price drop matches the lowest point for these noise-canceling earbuds.",
+      "category": "hardware",
+      "blurb": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing\u2019s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they\u2019re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching [&#8230;]"
+    },
+    {
+      "id": "558e23bf565d",
+      "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
+      "published": "2026-10-26T17:13:20+00:00",
+      "summary": "The Dutch government plans to reduce its workforce by 16 percent by 2035. This initiative is part of a broader strategy to increase efficiency through the use of AI.",
+      "category": "ai",
+      "blurb": "The cabinet announced that it wants to get rid of 25,000 full-time jobs by 2035."
+    },
+    {
+      "id": "4a8f41d180d7",
+      "title": "Five weird details from Anthropic\u2019s IPO filing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "published": "2026-10-26T17:10:23+00:00",
+      "summary": "Anthropic has filed its S-1 prospectus for an upcoming IPO. The document provides investors with detailed information on executive compensation, financial strategy, and potential business risks.",
+      "category": "company-news",
+      "blurb": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]"
+    },
+    {
+      "id": "be8696cbbf8c",
+      "title": "Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/",
+      "published": "2026-10-26T17:10:23+00:00",
+      "summary": "Microsoft is reportedly offering voluntary buyouts to 60,000 employees in a move to reduce operational costs. This figure represents over one-quarter of the company's total global workforce.",
+      "category": "company-news",
+      "blurb": "That's over a quarter of the company's global workforce."
+    },
+    {
+      "id": "ebcecb6415e5",
+      "title": "Everything old is new again with the Fitbit Edge",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+      "published": "2026-10-26T17:00:00+00:00",
+      "summary": "The Fitbit Edge is making a return to the market, evoking a sense of nostalgia. The device aims to provide a familiar experience for users interested in wearable trackers.",
+      "category": "hardware",
+      "blurb": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I [&#8230;]"
+    },
+    {
+      "id": "f6a43be19cbd",
+      "title": "Fitbit Edge review: Google strikes the right balance",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2296678/fitbit-edge-review/",
+      "published": "2026-10-26T17:00:00+00:00",
+      "summary": "The Fitbit Edge is being positioned as a balanced choice for users who want a high-quality tracker without AI integration. It is noted for its beautiful display and focused functionality.",
+      "category": "hardware",
+      "blurb": "Want a beautiful tracker with a screen but don't want AI on your wrist? The Fitbit Edge is perfect for you."
+    },
+    {
+      "id": "0c7a0e584035",
+      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "2026-10-26T16:49:42+00:00",
+      "summary": "Anthropic's IPO filing highlights a successful cross-selling strategy that encourages enterprise customers to use both the Claude Platform and first-party applications. This approach has helped the company increase customer retention and loyalty.",
+      "category": "company-news",
+      "blurb": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier."
     }
   ]
 }
