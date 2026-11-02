@@ -1,205 +1,205 @@
 {
-  "generated_at": "2026-10-26T20:15:15.399696+00:00",
+  "generated_at": "2026-11-02T22:57:26.444605+00:00",
   "items": [
     {
-      "id": "1783c585a356",
-      "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
-      "published": "2026-10-26T19:47:56+00:00",
-      "summary": "Apple has released system updates across its platforms that include new Siri AI capabilities. These updates are available to users starting today.",
+      "id": "55dd7e97ced5",
+      "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "published": "2026-11-02T22:14:50+00:00",
+      "summary": "Anthropic has warned that its AI is nearing Recursive Self-Improvement (RSI) capabilities. This threshold marks a point where AI models can train themselves, potentially leading to rapid and uncontrollable advancements.",
       "category": "ai",
-      "blurb": "Apple has rolled out software updates for all its platforms today."
+      "blurb": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
     },
     {
-      "id": "9665c1e51960",
-      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "published": "2026-10-26T19:22:40+00:00",
-      "summary": "Early users of Apple's new foldable iPhone Duo are reporting instances of the screen cracking. This has led to dissatisfaction among the device's early adopters.",
-      "category": "hardware",
-      "blurb": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking."
-    },
-    {
-      "id": "1ff55fbc213c",
-      "title": "Ghost of Y\u014dtei studio Sucker Punch reportedly lays off 24 workers",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
-      "published": "2026-10-26T19:15:34+00:00",
-      "summary": "Sucker Punch, the studio behind the recently released expansion for Ghost of Y\u014dtei, has reportedly laid off 24 employees. This news comes shortly after the success of their latest project.",
-      "category": "company-news",
-      "blurb": "Developer Sucker Punch just released a well-received expansion for Ghost of Y\u014dtei a few weeks ago."
-    },
-    {
-      "id": "0e102d0bee7c",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "published": "2026-10-26T18:59:52+00:00",
-      "summary": "Fusion startups are being asked by the government to provide equity in exchange for funding awards. The industry is currently evaluating whether this trade-off is beneficial.",
-      "category": "company-news",
-      "blurb": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?"
-    },
-    {
-      "id": "0071b63359c1",
-      "title": "Apple responds to reports of the iPhone Duo's inner display cracking",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
-      "published": "2026-10-26T18:52:02+00:00",
-      "summary": "Apple has issued a response regarding reports of cracked inner displays on the new iPhone Duo. Impacted customers are advised to contact AppleCare for potential device replacements.",
-      "category": "company-news",
-      "blurb": "Impacted users can contact AppleCare for a replacement."
-    },
-    {
-      "id": "a95cbb9d120c",
-      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "id": "b1dffed82969",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "published": "2026-10-26T18:51:06+00:00",
-      "summary": "The iOS 27.2 update introduces Apple Pencil support for the iPhone Duo and adds a new Edge Light feature for video calls. This fulfills the company's previous promise to bring stylus support to the device this year.",
-      "category": "software",
-      "blurb": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first [&#8230;]"
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "published": "2026-11-02T22:02:36+00:00",
+      "summary": "Apple reported record-breaking revenue for the iPhone, reaching $57.58 billion in the fourth quarter. This represents a 17 percent increase compared to the previous year, despite the absence of a new standard model release.",
+      "category": "company-news",
+      "blurb": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's [&#8230;]"
     },
     {
-      "id": "40c37f731511",
-      "title": "Your Apple TV remote has handy shortcuts most people never use",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/",
-      "published": "2026-10-26T18:30:00+00:00",
-      "summary": "The Apple TV remote includes several hidden shortcuts designed to improve navigation. Learning these functions can make managing menus much easier for users.",
+      "id": "b47c84055461",
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "published": "2026-11-02T21:04:20+00:00",
+      "summary": "Meta plans to discontinue OS updates for its Quest 2 and Quest Pro VR headsets by March 2027. Following the final update, v213, the company will only provide critical security patches and bug fixes.",
+      "category": "hardware",
+      "blurb": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of [&#8230;]"
+    },
+    {
+      "id": "6e1e33600ad3",
+      "title": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "published": "2026-11-02T20:37:49+00:00",
+      "summary": "Google discovered that an Android hardware partner, Videostrong Technology, embedded a backdoor into 1.3 million devices to create a botnet. Google has since removed the backdoor and terminated its relationship with the manufacturer.",
+      "category": "software",
+      "blurb": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or [&#8230;]"
+    },
+    {
+      "id": "3d15f21ee05a",
+      "title": "BMW is taking on Tesla\u2019s FSD with urban driver assist starting in 2027",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "published": "2026-11-02T20:03:52+00:00",
+      "summary": "BMW plans to launch urban driver assistance features starting in 2027, initially rolling out in Germany. This system aims to provide steering and speed control on both highways and city streets using GPS navigation.",
       "category": "other",
-      "blurb": "Getting to know your remote a little better makes it a lot easier to navigate the Apple TV menus."
+      "blurb": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using its built-in GPS navigation. While driving in town, [&#8230;]"
     },
     {
-      "id": "3676c5b47e2c",
-      "title": "The NBA\u2019s response to gambling scandals is to add more gambling partnerships",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-      "published": "2026-10-26T18:22:06+00:00",
-      "summary": "Despite ongoing gambling controversies, the NBA has announced new partnership deals with prediction market platforms Kalshi and Polymarket. This move continues the league's association with betting-related services.",
-      "category": "company-news",
-      "blurb": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi and Polymarket, as well as [&#8230;]"
-    },
-    {
-      "id": "d5021e59151f",
-      "title": "How to use your Samsung Galaxy phone to wirelessly charge other devices",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2294444/how-to-use-samsung-galaxy-phone-wireless-powershare-charging/",
-      "published": "2026-10-26T18:00:00+00:00",
-      "summary": "Many newer Samsung Galaxy smartphones feature the ability to wirelessly charge other devices. This feature serves as a convenient power source for users in need.",
-      "category": "hardware",
-      "blurb": "If you're in desperate need of power, lots of newer Samsung phones can wirelessly charge other devices."
-    },
-    {
-      "id": "ea61feedd133",
-      "title": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
+      "id": "2c466e9c19dc",
+      "title": "Germany says lawmakers\u2019 iPhones may have been hacked with spyware",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "published": "2026-10-26T17:45:00+00:00",
-      "summary": "Bedrock Robotics has secured $600 million in funding, bringing its valuation to $4.1 billion. The company aims to address the shortage of skilled operators through its autonomous excavators.",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "published": "2026-11-02T19:45:54+00:00",
+      "summary": "Apple has issued warnings to several German lawmakers and a filmmaker indicating their iPhones may have been targeted by spyware. The notifications highlight security concerns regarding potential unauthorized access to their devices.",
+      "category": "software",
+      "blurb": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked."
+    },
+    {
+      "id": "72a9c484bb71",
+      "title": "Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
+      "published": "2026-11-02T19:41:36+00:00",
+      "summary": "Casio has introduced Feel Sync technology for its new keyboards. This feature is designed to assist players in staying in tune while playing along to songs.",
+      "category": "hardware",
+      "blurb": "Casio's new Feel Sync technology helps keep new players in tune."
+    },
+    {
+      "id": "79e1d296f8d4",
+      "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
+      "published": "2026-11-02T19:30:00+00:00",
+      "summary": "Apple AirPods may emit a chirping sound for reasons beyond a low battery state. Users can learn the causes of these alerts and how to disable them.",
+      "category": "hardware",
+      "blurb": "Learn why your Apple AirPods are making a noise - and how to turn the sound off."
+    },
+    {
+      "id": "f0d114902300",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "published": "2026-11-02T19:25:59+00:00",
+      "summary": "Website builder Squarespace has announced it is laying off 19 percent of its workforce. The company stated that the cuts are part of a broader organizational restructuring.",
       "category": "company-news",
-      "blurb": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+      "blurb": "The website builder said that the job losses are part of a broader restructuring of its organization."
     },
     {
-      "id": "9ff19066829b",
-      "title": "Instagram wants you to watch 90-minute videos on your TV",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2297240/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/",
-      "published": "2026-10-26T17:36:39+00:00",
-      "summary": "Instagram is exploring long-form content by experimenting with 90-minute videos. These videos are specifically intended to be viewed on television sets.",
-      "category": "software",
-      "blurb": "Instagram is experimenting with longform video again."
-    },
-    {
-      "id": "2500a6aad874",
-      "title": "The RealReal won\u2019t let AI agents hog designer clothing",
+      "id": "3b566659fe8f",
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "published": "2026-10-26T17:30:55+00:00",
-      "summary": "The RealReal is upgrading its bot defense system to prevent AI agents from reserving designer items. The decision follows reports that AI tools were being used to manipulate the site's reservation system.",
-      "category": "software",
-      "blurb": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]"
-    },
-    {
-      "id": "7adce899d2ab",
-      "title": "Apple acknowledges iPhone Duo display \u2018issue\u2019 after reports of cracked screens",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-      "published": "2026-10-26T17:28:07+00:00",
-      "summary": "Apple has officially acknowledged a display issue affecting a small number of iPhone Duo units. The problem, which manifests as a bright line on the screen, is currently being addressed by the company.",
+      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "published": "2026-11-02T19:24:09+00:00",
+      "summary": "The Apple Watch Ultra 4 is currently available for $699.99, which is $100 off its regular price. This discount matches the lowest price ever recorded for the device at Amazon.",
       "category": "hardware",
-      "blurb": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo [&#8230;]"
+      "blurb": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it\u2019s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low price. Powered by [&#8230;]"
     },
     {
-      "id": "46af7b57ae99",
-      "title": "Nothing\u2019s eye-catching Ear 3A earbuds are matching their best price to date",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "published": "2026-10-26T17:25:34+00:00",
-      "summary": "Nothing's Ear 3A wireless earbuds are currently on sale for $79 across several major retailers. The price drop matches the lowest point for these noise-canceling earbuds.",
-      "category": "hardware",
-      "blurb": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing\u2019s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they\u2019re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching [&#8230;]"
+      "id": "8402594bed24",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "published": "2026-11-02T19:19:17+00:00",
+      "summary": "The New York Times has filed a lawsuit against the web browser company Brave. The suit alleges that Brave is scraping copyrighted content to distribute to its customers and third-party AI firms.",
+      "category": "company-news",
+      "blurb": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
     },
     {
-      "id": "558e23bf565d",
-      "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
+      "id": "2d2f3c476c3c",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "published": "2026-11-02T19:11:49+00:00",
+      "summary": "Snap has reached a settlement in a lawsuit claiming its platform contributed to depression and eating disorders among teenagers. Plaintiffs alleged that features like infinite scrolling and autoplay fostered compulsive usage habits.",
+      "category": "company-news",
+      "blurb": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling."
+    },
+    {
+      "id": "1a71c3f1f42d",
+      "title": "Snap settles social media addiction lawsuit to avoid trial",
       "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
-      "published": "2026-10-26T17:13:20+00:00",
-      "summary": "The Dutch government plans to reduce its workforce by 16 percent by 2035. This initiative is part of a broader strategy to increase efficiency through the use of AI.",
+      "url": "https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/",
+      "published": "2026-11-02T19:09:53+00:00",
+      "summary": "Snap has opted to settle a social media addiction lawsuit to avoid going to trial. The settlement comes after CEO Evan Spiegel was scheduled to provide testimony in the case.",
+      "category": "company-news",
+      "blurb": "Snap CEO Evan Spiegel was due to testify in the upcoming trial."
+    },
+    {
+      "id": "8501e7fca783",
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "published": "2026-11-02T19:05:46+00:00",
+      "summary": "Ford has pledged that it will not sell customer driving data to third-party data brokers. This move is intended to differentiate the company from competitors facing scrutiny over unauthorized telematics data sharing.",
+      "category": "company-news",
+      "blurb": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect [&#8230;]"
+    },
+    {
+      "id": "5e1e8efe0481",
+      "title": "Why some websites are blocking AI agents from accessing the web",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+      "published": "2026-11-02T19:00:00+00:00",
+      "summary": "Websites are increasingly blocking AI agents from accessing their content. While these agents can automate purchases, their automated access can create technical and functional difficulties for site owners.",
       "category": "ai",
-      "blurb": "The cabinet announced that it wants to get rid of 25,000 full-time jobs by 2035."
+      "blurb": "AI agents can be a great tool to help make purchases for you online - but it can become a frustrating problem if the website you're using blocks their access."
     },
     {
-      "id": "4a8f41d180d7",
-      "title": "Five weird details from Anthropic\u2019s IPO filing",
+      "id": "e3f3f6c0c50f",
+      "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "published": "2026-10-26T17:10:23+00:00",
-      "summary": "Anthropic has filed its S-1 prospectus for an upcoming IPO. The document provides investors with detailed information on executive compensation, financial strategy, and potential business risks.",
-      "category": "company-news",
-      "blurb": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "published": "2026-11-02T18:56:02+00:00",
+      "summary": "Anthropic is updating its Claude Code tool to prevent users from recreating existing video games. The change addresses the rise of AI-generated ports and decompilations in the retro gaming scene.",
+      "category": "ai",
+      "blurb": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]"
     },
     {
-      "id": "be8696cbbf8c",
-      "title": "Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/",
-      "published": "2026-10-26T17:10:23+00:00",
-      "summary": "Microsoft is reportedly offering voluntary buyouts to 60,000 employees in a move to reduce operational costs. This figure represents over one-quarter of the company's total global workforce.",
-      "category": "company-news",
-      "blurb": "That's over a quarter of the company's global workforce."
-    },
-    {
-      "id": "ebcecb6415e5",
-      "title": "Everything old is new again with the Fitbit Edge",
+      "id": "4c6a95aaf3dc",
+      "title": "Xbox\u2019s former COO has \u2018serious concerns\u2019 about her abrupt departure",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
-      "published": "2026-10-26T17:00:00+00:00",
-      "summary": "The Fitbit Edge is making a return to the market, evoking a sense of nostalgia. The device aims to provide a familiar experience for users interested in wearable trackers.",
-      "category": "hardware",
-      "blurb": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again.\" I [&#8230;]"
-    },
-    {
-      "id": "f6a43be19cbd",
-      "title": "Fitbit Edge review: Google strikes the right balance",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2296678/fitbit-edge-review/",
-      "published": "2026-10-26T17:00:00+00:00",
-      "summary": "The Fitbit Edge is being positioned as a balanced choice for users who want a high-quality tracker without AI integration. It is noted for its beautiful display and focused functionality.",
-      "category": "hardware",
-      "blurb": "Want a beautiful tracker with a screen but don't want AI on your wrist? The Fitbit Edge is perfect for you."
-    },
-    {
-      "id": "0c7a0e584035",
-      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "published": "2026-10-26T16:49:42+00:00",
-      "summary": "Anthropic's IPO filing highlights a successful cross-selling strategy that encourages enterprise customers to use both the Claude Platform and first-party applications. This approach has helped the company increase customer retention and loyalty.",
+      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "published": "2026-11-02T18:43:24+00:00",
+      "summary": "Former Xbox COO Helen Chiang has expressed concerns regarding her sudden departure from Microsoft. Her exit occurred less than two weeks after a promotion and following a 21-year career at the company.",
       "category": "company-news",
-      "blurb": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier."
+      "blurb": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. [&#8230;]"
+    },
+    {
+      "id": "fe33150dc995",
+      "title": "Think twice before putting your gaming console inside a cabinet",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
+      "published": "2026-11-02T18:15:00+00:00",
+      "summary": "Placing gaming consoles inside cabinets can restrict necessary airflow. Users are warned that this lack of ventilation may prevent systems from running safely.",
+      "category": "hardware",
+      "blurb": "A cabinet might seem like a convenient spot for your console, but it can't provide enough airflow for the system to run safely."
+    },
+    {
+      "id": "065434065a84",
+      "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
+      "published": "2026-11-02T18:05:52+00:00",
+      "summary": "SpaceX is reportedly exploring the possibility of acquiring Boost Mobile or utilizing its cellular network. A deal could provide SpaceX with a faster path to becoming a mobile carrier.",
+      "category": "company-news",
+      "blurb": "A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier."
+    },
+    {
+      "id": "16194c055af9",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "published": "2026-11-02T18:01:30+00:00",
+      "summary": "OpenAI is launching a pilot program to use data center power plants to support local energy needs during emergencies. The company plans to dedicate excess energy capacity to stabilize power grids for surrounding areas.",
+      "category": "ai",
+      "blurb": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]"
     }
   ]
 }
