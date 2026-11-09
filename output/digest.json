@@ -1,205 +1,205 @@
 {
-  "generated_at": "2026-11-02T22:57:26.444605+00:00",
+  "generated_at": "2026-11-09T23:39:49.692111+00:00",
   "items": [
     {
-      "id": "55dd7e97ced5",
-      "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "published": "2026-11-02T22:14:50+00:00",
-      "summary": "Anthropic has warned that its AI is nearing Recursive Self-Improvement (RSI) capabilities. This threshold marks a point where AI models can train themselves, potentially leading to rapid and uncontrollable advancements.",
-      "category": "ai",
-      "blurb": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
-    },
-    {
-      "id": "b1dffed82969",
-      "title": "Apple set an iPhone sales record even without a new standard iPhone",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-      "published": "2026-11-02T22:02:36+00:00",
-      "summary": "Apple reported record-breaking revenue for the iPhone, reaching $57.58 billion in the fourth quarter. This represents a 17 percent increase compared to the previous year, despite the absence of a new standard model release.",
-      "category": "company-news",
-      "blurb": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's [&#8230;]"
-    },
-    {
-      "id": "b47c84055461",
-      "title": "Meta will end Quest 2 OS updates in 2027",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-      "published": "2026-11-02T21:04:20+00:00",
-      "summary": "Meta plans to discontinue OS updates for its Quest 2 and Quest Pro VR headsets by March 2027. Following the final update, v213, the company will only provide critical security patches and bug fixes.",
+      "id": "154a3e952c2a",
+      "title": "Why you probably shouldn't buy gadgets with micro USB ports",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+      "published": "2026-11-09T23:30:00+00:00",
+      "summary": "USB-C has become the industry standard for device connectivity. Consumers are advised to avoid purchasing new gadgets that still rely on outdated micro USB ports.",
       "category": "hardware",
-      "blurb": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of [&#8230;]"
+      "blurb": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector."
     },
     {
-      "id": "6e1e33600ad3",
-      "title": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
+      "id": "13bdf291560a",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "published": "2026-11-09T23:28:37+00:00",
+      "summary": "Nvidia CEO Jensen Huang reportedly hired a PR firm specializing in high-profile scandals. The firm was engaged following a 2025 report regarding business dealings involving Alice Huang.",
+      "category": "company-news",
+      "blurb": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+    },
+    {
+      "id": "15c28179b2dc",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
       "source": "The Verge",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "published": "2026-11-02T20:37:49+00:00",
-      "summary": "Google discovered that an Android hardware partner, Videostrong Technology, embedded a backdoor into 1.3 million devices to create a botnet. Google has since removed the backdoor and terminated its relationship with the manufacturer.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "published": "2026-11-09T23:07:59+00:00",
+      "summary": "Nvidia is investigating an affair between CEO Jensen Huang and an executive named Alice Huang. US intelligence reports have identified the executive as having potential ties to a foreign power.",
+      "category": "company-news",
+      "blurb": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]"
+    },
+    {
+      "id": "fffcae2ee0fe",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "published": "2026-11-09T23:03:46+00:00",
+      "summary": "Wyndham hotels suffered a data security lapse due to a hardcoded credential left in its customer application. The company has not confirmed whether any unauthorized access to customer data occurred.",
       "category": "software",
-      "blurb": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or [&#8230;]"
+      "blurb": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access."
     },
     {
-      "id": "3d15f21ee05a",
-      "title": "BMW is taking on Tesla\u2019s FSD with urban driver assist starting in 2027",
+      "id": "f09882ad6874",
+      "title": "The pros and cons of using mesh Wi-Fi",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons/",
+      "published": "2026-11-09T23:00:00+00:00",
+      "summary": "This article explores the trade-offs between mesh Wi-Fi systems and traditional standalone routers. It helps users determine which networking setup best suits their home range and budget needs.",
+      "category": "hardware",
+      "blurb": "Should you buy a mesh Wi-Fi system or a standalone router? Learn how each handles range, roaming, and cost, and which one fits your home best."
+    },
+    {
+      "id": "f469998b0ebd",
+      "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "published": "2026-11-09T22:46:09+00:00",
+      "summary": "A short-selling firm called Culper Research raised concerns about Jensen Huang\u2019s relationship with a Chinese executive months before the current scandal. These findings preceded public revelations regarding the Nvidia CEO.",
+      "category": "company-news",
+      "blurb": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+    },
+    {
+      "id": "05d31a5bc4a7",
+      "title": "The race is on to sue Nvidia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "published": "2026-11-09T22:23:42+00:00",
+      "summary": "Nvidia stock declined as the company faces potential legal action regarding its handling of the Jensen Huang scandal. Experts suggest that earlier claims of the situation being normal may create significant legal liabilities.",
+      "category": "company-news",
+      "blurb": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem."
+    },
+    {
+      "id": "26a80d42b058",
+      "title": "MSI\u2019s refurbished QD-OLED gaming monitor is on sale for under $300",
       "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-      "published": "2026-11-02T20:03:52+00:00",
-      "summary": "BMW plans to launch urban driver assistance features starting in 2027, initially rolling out in Germany. This system aims to provide steering and speed control on both highways and city streets using GPS navigation.",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "published": "2026-11-09T21:43:41+00:00",
+      "summary": "MSI's refurbished QD-OLED gaming monitor is currently available for a significant discount at Woot. The deal offers a 27-inch screen at a reduced price until November 18th.",
+      "category": "hardware",
+      "blurb": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI\u2019s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI\u2019s 27-inch screen is well-featured [&#8230;]"
+    },
+    {
+      "id": "ad3fd33cd90b",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "published": "2026-11-09T21:13:16+00:00",
+      "summary": "The author expresses skepticism regarding corporate pledges to use AI for environmental benefit. The piece questions the sincerity and real-world effectiveness of these high-profile sustainability promises.",
+      "category": "ai",
+      "blurb": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]"
+    },
+    {
+      "id": "c0b426b85c9a",
+      "title": "YouTube will once again be part of Billboard chart calculations in 2027",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
+      "published": "2026-11-09T21:09:51+00:00",
+      "summary": "Billboard plans to reincorporate YouTube streaming data into its chart calculations starting in 2027. The methodology will be adjusted to place greater emphasis on free, ad-supported listening.",
       "category": "other",
-      "blurb": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using its built-in GPS navigation. While driving in town, [&#8230;]"
+      "blurb": "Billboard will give more weight to free, ad-supported listening in its methodology."
     },
     {
-      "id": "2c466e9c19dc",
-      "title": "Germany says lawmakers\u2019 iPhones may have been hacked with spyware",
+      "id": "2cf4c897d480",
+      "title": "5 Nintendo Switch 2 features everyone should know about",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know/",
+      "published": "2026-11-09T21:00:00+00:00",
+      "summary": "This article outlines five useful features for the Nintendo Switch 2. It covers practical tips to help users improve their gaming experience, including controller management and game sharing.",
+      "category": "hardware",
+      "blurb": "From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features."
+    },
+    {
+      "id": "82188091c6f0",
+      "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+      "published": "2026-11-09T20:56:51+00:00",
+      "summary": "Apple is introducing paid extended usage packs for its AI features within Creator Studio. Users will need to purchase additional access once they exceed their monthly allotment for Logic Pro's AI assistant.",
+      "category": "ai",
+      "blurb": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit."
+    },
+    {
+      "id": "4f9c8174d84b",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "published": "2026-11-02T19:45:54+00:00",
-      "summary": "Apple has issued warnings to several German lawmakers and a filmmaker indicating their iPhones may have been targeted by spyware. The notifications highlight security concerns regarding potential unauthorized access to their devices.",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "published": "2026-11-09T20:55:34+00:00",
+      "summary": "Geothermal energy company Fervo has secured $12 billion in orders for its drilling technology. The firm aims to compete with natural gas by reducing the costs associated with geothermal extraction.",
+      "category": "other",
+      "blurb": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah."
+    },
+    {
+      "id": "39befa337949",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "published": "2026-11-09T20:09:06+00:00",
+      "summary": "Nvidia CEO Jensen Huang has withdrawn from the ElevenLabs Summit. This follows his previous cancellation of an appearance at an Anthropic event amidst ongoing controversy.",
+      "category": "company-news",
+      "blurb": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+    },
+    {
+      "id": "b62d9a9a5109",
+      "title": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
+      "published": "2026-11-09T19:42:47+00:00",
+      "summary": "Windows 11 is introducing a simpler method to disable the Sticky Keys pop-up notification. A new checkbox will allow users to turn off the feature easily.",
       "category": "software",
-      "blurb": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked."
+      "blurb": "There's a checkbox that simply turns it off."
     },
     {
-      "id": "72a9c484bb71",
-      "title": "Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
-      "published": "2026-11-02T19:41:36+00:00",
-      "summary": "Casio has introduced Feel Sync technology for its new keyboards. This feature is designed to assist players in staying in tune while playing along to songs.",
-      "category": "hardware",
-      "blurb": "Casio's new Feel Sync technology helps keep new players in tune."
-    },
-    {
-      "id": "79e1d296f8d4",
-      "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
-      "published": "2026-11-02T19:30:00+00:00",
-      "summary": "Apple AirPods may emit a chirping sound for reasons beyond a low battery state. Users can learn the causes of these alerts and how to disable them.",
-      "category": "hardware",
-      "blurb": "Learn why your Apple AirPods are making a noise - and how to turn the sound off."
-    },
-    {
-      "id": "f0d114902300",
-      "title": "Web host Squarespace lays off 19% of its employees",
+      "id": "9c760cbdfbd6",
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "published": "2026-11-02T19:25:59+00:00",
-      "summary": "Website builder Squarespace has announced it is laying off 19 percent of its workforce. The company stated that the cuts are part of a broader organizational restructuring.",
-      "category": "company-news",
-      "blurb": "The website builder said that the job losses are part of a broader restructuring of its organization."
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "published": "2026-11-09T19:39:41+00:00",
+      "summary": "YouTube will resume providing streaming data to Billboard for its charts starting in 2027. The decision follows a resolution to include more weight for free, ad-supported music streams.",
+      "category": "other",
+      "blurb": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams."
     },
     {
-      "id": "3b566659fe8f",
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-      "published": "2026-11-02T19:24:09+00:00",
-      "summary": "The Apple Watch Ultra 4 is currently available for $699.99, which is $100 off its regular price. This discount matches the lowest price ever recorded for the device at Amazon.",
-      "category": "hardware",
-      "blurb": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it\u2019s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low price. Powered by [&#8230;]"
+      "id": "0cdfa222df67",
+      "title": "How to use your iPhone to take the best picture of the Moon",
+      "source": "Engadget - Technology News & Expert Reviews",
+      "url": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
+      "published": "2026-11-09T19:30:00+00:00",
+      "summary": "This guide provides instructions on how to capture high-quality photographs of the Moon using an iPhone. It offers tips applicable to various models of the device.",
+      "category": "other",
+      "blurb": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model."
     },
     {
-      "id": "8402594bed24",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "id": "2b128ff09548",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "published": "2026-11-02T19:19:17+00:00",
-      "summary": "The New York Times has filed a lawsuit against the web browser company Brave. The suit alleges that Brave is scraping copyrighted content to distribute to its customers and third-party AI firms.",
-      "category": "company-news",
-      "blurb": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "published": "2026-11-09T19:24:51+00:00",
+      "summary": "Anthropic has launched its new Mythos and Fable AI models, focusing on improved reasoning, coding, and vision capabilities. The release addresses recent concerns regarding repetitive strain issues.",
+      "category": "ai",
+      "blurb": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
     },
     {
-      "id": "2d2f3c476c3c",
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "id": "c237a70ffb26",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "published": "2026-11-02T19:11:49+00:00",
-      "summary": "Snap has reached a settlement in a lawsuit claiming its platform contributed to depression and eating disorders among teenagers. Plaintiffs alleged that features like infinite scrolling and autoplay fostered compulsive usage habits.",
-      "category": "company-news",
-      "blurb": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling."
-    },
-    {
-      "id": "1a71c3f1f42d",
-      "title": "Snap settles social media addiction lawsuit to avoid trial",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/",
-      "published": "2026-11-02T19:09:53+00:00",
-      "summary": "Snap has opted to settle a social media addiction lawsuit to avoid going to trial. The settlement comes after CEO Evan Spiegel was scheduled to provide testimony in the case.",
-      "category": "company-news",
-      "blurb": "Snap CEO Evan Spiegel was due to testify in the upcoming trial."
-    },
-    {
-      "id": "8501e7fca783",
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "published": "2026-11-02T19:05:46+00:00",
-      "summary": "Ford has pledged that it will not sell customer driving data to third-party data brokers. This move is intended to differentiate the company from competitors facing scrutiny over unauthorized telematics data sharing.",
-      "category": "company-news",
-      "blurb": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect [&#8230;]"
-    },
-    {
-      "id": "5e1e8efe0481",
-      "title": "Why some websites are blocking AI agents from accessing the web",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
-      "published": "2026-11-02T19:00:00+00:00",
-      "summary": "Websites are increasingly blocking AI agents from accessing their content. While these agents can automate purchases, their automated access can create technical and functional difficulties for site owners.",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "published": "2026-11-09T19:21:46+00:00",
+      "summary": "Nominal, an AI platform for hardware engineering, has seen its valuation triple to $3 billion in eight months. The company continues to gain traction, counting Anduril as a major customer.",
       "category": "ai",
-      "blurb": "AI agents can be a great tool to help make purchases for you online - but it can become a frustrating problem if the website you're using blocks their access."
+      "blurb": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation."
     },
     {
-      "id": "e3f3f6c0c50f",
-      "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "published": "2026-11-02T18:56:02+00:00",
-      "summary": "Anthropic is updating its Claude Code tool to prevent users from recreating existing video games. The change addresses the rise of AI-generated ports and decompilations in the retro gaming scene.",
-      "category": "ai",
-      "blurb": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]"
-    },
-    {
-      "id": "4c6a95aaf3dc",
-      "title": "Xbox\u2019s former COO has \u2018serious concerns\u2019 about her abrupt departure",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-      "published": "2026-11-02T18:43:24+00:00",
-      "summary": "Former Xbox COO Helen Chiang has expressed concerns regarding her sudden departure from Microsoft. Her exit occurred less than two weeks after a promotion and following a 21-year career at the company.",
-      "category": "company-news",
-      "blurb": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. [&#8230;]"
-    },
-    {
-      "id": "fe33150dc995",
-      "title": "Think twice before putting your gaming console inside a cabinet",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
-      "published": "2026-11-02T18:15:00+00:00",
-      "summary": "Placing gaming consoles inside cabinets can restrict necessary airflow. Users are warned that this lack of ventilation may prevent systems from running safely.",
-      "category": "hardware",
-      "blurb": "A cabinet might seem like a convenient spot for your console, but it can't provide enough airflow for the system to run safely."
-    },
-    {
-      "id": "065434065a84",
-      "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
-      "source": "Engadget - Technology News & Expert Reviews",
-      "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
-      "published": "2026-11-02T18:05:52+00:00",
-      "summary": "SpaceX is reportedly exploring the possibility of acquiring Boost Mobile or utilizing its cellular network. A deal could provide SpaceX with a faster path to becoming a mobile carrier.",
-      "category": "company-news",
-      "blurb": "A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier."
-    },
-    {
-      "id": "16194c055af9",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "published": "2026-11-02T18:01:30+00:00",
-      "summary": "OpenAI is launching a pilot program to use data center power plants to support local energy needs during emergencies. The company plans to dedicate excess energy capacity to stabilize power grids for surrounding areas.",
-      "category": "ai",
-      "blurb": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]"
+      "id": "f31ca517d735",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "published": "2026-11-09T19:19:24+00:00",
+      "summary": "The French government has attributed recent cyberattacks against grocery store freezers and blood banks to Iran. These attacks targeted industrial refrigeration systems across Europe.",
+      "category": "software",
+      "blurb": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe."
     }
   ]
 }
